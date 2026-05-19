@@ -1,0 +1,13 @@
+Exercício 1: Mock de Repositório (Controle de Acesso)
+Você tem uma classe AuthService que depende de um UserRepository.
+
+Regra: O método AuthService.isAdult(String userId)
+ deve buscar o usuário no repositório. Se a idade
+  retornada for menor que 18, retorna false. Se for
+   18 ou mais, retorna true.
+
+Tarefa: Crie o mock do UserRepository,
+ escreva os testes para os dois cenários
+  (maior e menor de idade) e depois implemente
+   a lógica   no AuthService.
+   

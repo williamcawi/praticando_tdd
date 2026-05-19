@@ -1,4 +1,4 @@
-import 'package:praticar_1/celsius_to_fahrenheit.dart';
+import 'package:praticar_1/tdd_iniciante/celsius_to_fahrenheit.dart';
 import 'package:test/test.dart';
 
 void main() {

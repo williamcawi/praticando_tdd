@@ -1,4 +1,4 @@
-import 'package:praticar_1/validate_password.dart';
+import 'package:praticar_1/tdd_iniciante/validate_password.dart';
 import 'package:test/test.dart';
 
 void main() {
