@@ -1,5 +1,5 @@
-import 'package:praticar_1/tdd_intermediario/auth_service.dart';
-import 'package:praticar_1/tdd_intermediario/user_repository.dart';
+import 'package:praticar_1/tdd_intermediario/exercicios%201%20e%202/auth_service.dart';
+import 'package:praticar_1/tdd_intermediario/exercicios%201%20e%202/user_repository.dart';
 import 'package:test/test.dart';
 import 'package:mocktail/mocktail.dart';
 

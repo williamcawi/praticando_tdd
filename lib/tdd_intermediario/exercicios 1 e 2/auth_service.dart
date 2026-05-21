@@ -1,4 +1,4 @@
-import 'package:praticar_1/tdd_intermediario/user_repository.dart';
+import 'package:praticar_1/tdd_intermediario/exercicios%201%20e%202/user_repository.dart';
 
 class AuthService {
   final UserRepository _userRepository;
